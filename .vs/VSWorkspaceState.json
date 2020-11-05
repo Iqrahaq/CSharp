@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\week3&4",
-    "\\week3&4\\Refactoring",
-    "\\week3&4\\Refactoring\\Refactoring"
+    "\\week3&4\\Refactoring\\Refactoring",
+    "\\week5",
+    "\\week5\\ApplicationNonMVP",
+    "\\week5\\ApplicationNonMVP\\WindowsFormsApplication1",
+    "\\week5\\ApplicationNonMVP\\WindowsFormsApplication1\\WindowsFormsApplication1"
   ],
-  "SelectedNode": "\\week3&4\\Refactoring\\Refactoring\\Refactoring.sln",
+  "SelectedNode": "\\week5\\ApplicationNonMVP\\WindowsFormsApplication1\\SecurityAppForKeys.sln",
   "PreviewInSolutionExplorer": false
 }

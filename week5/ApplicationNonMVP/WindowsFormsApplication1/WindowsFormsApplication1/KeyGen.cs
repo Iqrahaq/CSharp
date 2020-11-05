@@ -44,7 +44,7 @@ namespace WindowsFormsApplication1
         private List<string> charList;
         private int keyLength;
         private UInt64 attempsPerSec = 1000000;
-        private RNGCryptoServiceProvider rndGen; 
+        private RNGCryptoServiceProvider rndGen;
         public KeyGen()
         {
             charList = new List<string>();
@@ -159,7 +159,7 @@ namespace WindowsFormsApplication1
             int hours = (int)(seconds / (60 * 60));
             seconds = seconds % (60 * 60);
             int minutes = (int)(seconds / 60);
-            seconds = (int) seconds % 60;
+            seconds = (int)seconds % 60;
 
             string syears = DoubleConverter.ToExactString(years);
             string sdays = days.ToString();
@@ -167,7 +167,7 @@ namespace WindowsFormsApplication1
             string smimutes = minutes.ToString();
             string sseconds = seconds.ToString();
 
-            return new TimeToCrack(syears, sdays, shours, smimutes , sseconds);
+            return new TimeToCrack(syears, sdays, shours, smimutes, sseconds);
         }
         public double SizeOfKeySpace()
         {
