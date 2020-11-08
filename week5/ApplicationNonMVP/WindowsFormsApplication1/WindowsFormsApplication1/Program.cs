@@ -15,7 +15,10 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new KeyGenerator());
+            //Application.Run(new KeyGenerator());
+            KeyGenerator f1 = new KeyGenerator();
+            KeyGenPresenter kgp = new KeyGenPresenter(f1);
+            Application.Run(f1);
         }
     }
 }

@@ -107,11 +107,11 @@ namespace WindowsFormsApplication1
         {
             this.keyLength = keyLength;
         }
-        public void setAttempsPerSecond(UInt64 attempts)
+        public void setAttemptsPerSecond(UInt64 attempts)
         {
             attempsPerSec = attempts;
         }
-        public UInt64 getAttempsPerSecond()
+        public UInt64 getAttemptsPerSecond()
         {
             return attempsPerSec;
         }

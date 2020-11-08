@@ -13,14 +13,14 @@ namespace WindowsFormsApplication1
         void setSeconds(string seconds);
         void setHours(string hours);
         void setDays(string days);
-        void setMonths(string months);
+        void setMinutes(string minutes);
         void setYears(string years);
-        int getKeyLength();
-        void setKeyLength(int keyLength);
-        UInt64 getAttemptsPerSecond();
-        void setAttempsPerSecond(UInt64 attempts);
+        String getKeyLength();
+        void setKeyLength(String keyLength);
+        void setKeysPerSecond(String s);
+        String getKeysPerSecond();
         void setNewKey(string key);
-        string getNewKey();
-
+        void register(KeyGenPresenter KGP);
+        void message(String message);
     }
 }
