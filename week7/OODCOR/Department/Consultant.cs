@@ -8,9 +8,14 @@ namespace OODCOR
 {
     class Consultant : MedicalHandler
     {
+        public Consultant(Patient patient)
+        {
+            HandlePatient(patient);
+        }
+
         public override void HandlePatient(Patient patient)
         {
-            throw new NotImplementedException();
+            
         }
     }
 }

@@ -18,10 +18,5 @@ namespace OODCOR
             High,
             Critical
         }
-
-        public Severity()
-        {
-
-        }
     }
 }
