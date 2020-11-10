@@ -23,5 +23,12 @@ namespace OODCOR
         {
             return name + " " + condition.ToString() + " " + severity.ToString();
         }
+
+        public static void Information(Patient patient)
+        {
+            Console.WriteLine("Patient's Name: " + patient.name);
+            Console.WriteLine("Patient's Health Severity: " + patient.severity.ToString());
+            Console.WriteLine("Patient's Current Condition: " + patient.condition.ToString());
+        }
     }
 }

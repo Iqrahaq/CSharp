@@ -8,9 +8,14 @@ namespace OODCOR
 {
     public class Surgery : MedicalHandler
     {
+        public Surgery(Patient patient)
+        {
+            HandlePatient(patient);
+        }
         public override void HandlePatient(Patient patient)
         {
-            throw new NotImplementedException();
+            Patient.Information(patient);
+            Console.WriteLine("Patient is currently in surgery.");
         }
     }
 }

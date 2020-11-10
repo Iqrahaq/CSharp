@@ -18,8 +18,10 @@ namespace OODCOR
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             // Triage > Doctor > Consultant.
+            MedicalHandler handler = new MedicalHandler;
             Patient patient = new Patient("Iqra", "Critical");
             Triage triage = new Triage(patient);
+
 
         }
     }

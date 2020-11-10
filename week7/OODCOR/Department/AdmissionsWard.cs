@@ -8,9 +8,14 @@ namespace OODCOR
 {
     class AdmissionsWard : MedicalHandler
     {
+        public AdmissionsWard(Patient patient)
+        {
+            HandlePatient(patient);
+        }
         public override void HandlePatient(Patient patient)
         {
-            throw new NotImplementedException();
+            Patient.Information(patient);
+            Console.WriteLine("Patient is currently in the ward.");
         }
     }
 }
