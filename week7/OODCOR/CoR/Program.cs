@@ -1,22 +1,16 @@
-﻿using System;
+﻿using OODCOR;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace OODCOR
+namespace CoR
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
             // Triage > Doctor > Consultant.
             Triage triage = new Triage();
             Doctor doctor = new Doctor();
@@ -36,12 +30,17 @@ namespace OODCOR
             Patient p5 = new Patient("Edward", Condition.ChestPain);
             Patient p6 = new Patient("Frankie", Condition.Injury);
 
+            triage.HandlePatient(p1);
+            Console.WriteLine();
             triage.HandlePatient(p2);
-            //triage.HandlePatient(p2);
-            //triage.HandlePatient(p3);
-            //triage.HandlePatient(p4);
-            //triage.HandlePatient(p5);
-            //triage.HandlePatient(p6);
+            Console.WriteLine();
+            triage.HandlePatient(p3);
+            Console.WriteLine();
+            triage.HandlePatient(p4);
+            Console.WriteLine();
+            triage.HandlePatient(p5);
+            Console.WriteLine();
+            triage.HandlePatient(p6);
             Console.ReadKey();
         }
     }
