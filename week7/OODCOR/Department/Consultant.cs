@@ -8,23 +8,30 @@ namespace OODCOR
 {
     class Consultant : MedicalHandler
     {
-        public Consultant(Patient patient)
+        protected List<MedicalHandler> successor;
+
+        public Consultant()
         {
-            HandlePatient(patient);
+            successor = new List<MedicalHandler>();
+        }
+
+        public override void SetSuccessor(MedicalHandler successor)
+        {
+            this.successor.Add(successor);
         }
 
         public override void HandlePatient(Patient patient)
         {
             Patient.Information(patient);
-            if (patient.condition.ToString() == "ChestPain")
+            if (patient.condition == Condition.ChestPain)
             {
                 Console.WriteLine("Sent to Ward.");
-                AdmissionsWard ward = new AdmissionsWard(patient);
+                successor[0].HandlePatient(patient);
             }
-            else if (patient.condition.ToString() == "HeadTrauma")
+            else if (patient.condition == Condition.HeadTrauma)
             {
                 Console.WriteLine("Sent to Surgery.");
-                Surgery surgery = new Surgery(patient);
+                successor[1].HandlePatient(patient);
             }
             else
             {

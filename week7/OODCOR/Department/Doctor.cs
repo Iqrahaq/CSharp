@@ -8,19 +8,13 @@ namespace OODCOR
 {
     class Doctor : MedicalHandler
     {
-        public Doctor(Patient patient)
-        {
-            HandlePatient(patient);
-        }
-
         public override void HandlePatient(Patient patient)
         {
             Patient.Information(patient);
-            if (patient.severity.ToString() == "Critical" || patient.severity.ToString() == "High" && ((patient.condition.ToString() == "HeadTrauma" || patient.condition.ToString() == "ChestPain")))
+            if (patient.severity == Severity.Critical|| patient.severity == Severity.High && ((patient.condition == Condition.HeadTrauma || patient.condition == Condition.ChestPain)))
             {
                 // Refer to Consultant.
                 Console.WriteLine("Referred to Consultant.");
-                Consultant consultant = new Consultant(patient);
             }
             else
             {

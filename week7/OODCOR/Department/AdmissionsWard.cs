@@ -8,10 +8,6 @@ namespace OODCOR
 {
     class AdmissionsWard : MedicalHandler
     {
-        public AdmissionsWard(Patient patient)
-        {
-            HandlePatient(patient);
-        }
         public override void HandlePatient(Patient patient)
         {
             Patient.Information(patient);

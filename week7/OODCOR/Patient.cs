@@ -7,6 +7,25 @@ using System.Threading.Tasks;
 
 namespace OODCOR
 {
+    public enum Condition
+    {
+        ChestPain,
+        Injury,
+        Infection,
+        HeadTrauma,
+        GeneralPain,
+        Other
+    }
+
+    public enum Severity
+    {
+        VeryLow,
+        Low,
+        Medium,
+        High,
+        Critical
+    }
+
     public class Patient
     {
         private String name;

@@ -8,12 +8,11 @@ namespace OODCOR
 {
     public abstract class MedicalHandler
     {
-        protected List<MedicalHandler> successor = new List<MedicalHandler>();
+        protected MedicalHandler successor;
 
-        public virtual void SetSuccessor(List<MedicalHandler> successor)
+        public virtual void SetSuccessor(MedicalHandler successor)
         {
             this.successor = successor;
-            successor.Add(this);
         }
 
         public abstract void HandlePatient(Patient patient);

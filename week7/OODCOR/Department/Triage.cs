@@ -10,42 +10,39 @@ namespace OODCOR
 {
     public class Triage : MedicalHandler
     {
-        private readonly Random random = new Random();
-
-        private int number 
-        {
-            get 
-            {
-                return number;
-            }
-            set
-            {
-                number = random.Next(0,5);
-            }
-        }
-
-        public Triage(Patient patient)
-        {
-            HandlePatient(patient);
-        }
-
         public override void HandlePatient(Patient patient)
         {
+            Random random = new Random();
+            int number = random.Next(0, 5);
             patient.severity.Equals(number);
+
+
             Patient.Information(patient);
-            if (patient.severity.ToString() == "VeryLow")
+            if (number == 0)
+                patient.severity = Severity.VeryLow;
+            if (number == 1)
+                patient.severity = Severity.Low;
+            if (number == 2)
+                patient.severity = Severity.Medium;
+            if (number == 3)
+                patient.severity = Severity.High;
+            if (number == 4)
+                patient.severity = Severity.Critical;
+
+
+
+            if (patient.severity == Severity.VeryLow)
             {
                 Console.WriteLine("Discharged and referred to GP.");
 
             }
-            else if ((patient.severity.ToString() == "Low" || patient.severity.ToString() == "Medium") && (patient.condition.ToString() == "Injury" || patient.condition.ToString() == "Infection"))
+            else if ((patient.severity == Severity.Low || patient.severity == Severity.Medium) && (patient.condition == Condition.Injury || patient.condition == Condition.Infection))
             {
                 Console.WriteLine("Treated by Triage Nurse and then discharged.");
             }
             else
             {
                 Console.WriteLine("Referred to Doctor.");
-                Doctor doctor = new Doctor(patient);
             }
         }
     }
