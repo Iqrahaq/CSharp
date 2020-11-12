@@ -11,7 +11,7 @@ namespace OODCOR
         public override void HandlePatient(Patient patient)
         {
             Patient.Information(patient);
-            if (patient.severity == Severity.Critical|| patient.severity == Severity.High && ((patient.condition == Condition.HeadTrauma || patient.condition == Condition.ChestPain)))
+            if ((patient.severity == Severity.Critical|| patient.severity == Severity.High) && (patient.condition == Condition.HeadTrauma || patient.condition == Condition.ChestPain))
             {
                 // Refer to Consultant.
                 Console.WriteLine("Referred to Consultant.");
