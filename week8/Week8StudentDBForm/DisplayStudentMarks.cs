@@ -33,7 +33,7 @@ namespace Week8StudentDBForm
             txt_stuname.Text = studentName;
 
             connection.Open();
-            String listSQL = "select sname, period, mark from marks join subject using (subjectId) where studentid = '" + studentID +"'";
+            String listSQL = "select sname, period, mark from marks join subject on subject.subjectid = marks.subjectid where studentid = '" + studentID +"'";
             SqlCommand command = new SqlCommand(listSQL, connection);
             SqlDataReader reader = command.ExecuteReader();
 
@@ -41,7 +41,7 @@ namespace Week8StudentDBForm
             {
                 String row1 = reader.GetString(0);
                 String row2 = reader.GetString(1);
-                String row3 = reader.GetString(2);
+                Int32 row3 = reader.GetInt32(2);
                 lbx_info.Items.Add(row1 + ", " + row2 + ", " + row3);
             }
             command.Dispose();
