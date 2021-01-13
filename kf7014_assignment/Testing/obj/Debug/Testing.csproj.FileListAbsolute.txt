@@ -1,0 +1,25 @@
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Testing.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Testing.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Data Access Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Domain Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Presentation Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\EntityFramework.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Data Access Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Data Access Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Domain Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Domain Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Presentation Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Presentation Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\bin\Debug\EntityFramework.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\obj\Debug\Testing.csproj.CopyComplete
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\obj\Debug\Testing.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Testing\obj\Debug\Testing.pdb

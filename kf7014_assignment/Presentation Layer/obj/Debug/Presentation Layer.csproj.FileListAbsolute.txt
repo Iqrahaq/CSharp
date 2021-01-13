@@ -1,0 +1,30 @@
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Presentation_Layer.Forms.AppointmentListForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Forms.Appointments.NewAppointmentForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Presentation_Layer.Forms.HomeForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation_Layer.Forms.New_Members.GPInformationForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Forms.Patients.NewMemberForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Presentation_Layer.Forms.PatientInformationForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Presentation_Layer.Forms.PatientListForm.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\EntityFramework.SqlServer.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\EntityFramework.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\System.ComponentModel.Annotations.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Data Access Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Domain Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Data Access Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Data Access Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Domain Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\bin\Debug\Domain Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Presentation Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Presentation Layer\obj\Debug\Assignment.Presentation_Layer.Forms.ConfirmationForm.resources

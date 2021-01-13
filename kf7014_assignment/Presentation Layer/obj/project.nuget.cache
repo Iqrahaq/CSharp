@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ip2E1hkStIZBTx3qI5f3x7Z4ojkEt4PccMiYB7lrxYbuibLXQbKSNK/wJriT49vFi6a5s0TvNVR4vjcODWlSxQ==",
+  "success": true,
+  "projectFilePath": "E:\\NU\\5th Year\\Advanced Programming\\Assignment\\kf7014_assignment\\kf7014_assignment\\Presentation Layer\\Presentation Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

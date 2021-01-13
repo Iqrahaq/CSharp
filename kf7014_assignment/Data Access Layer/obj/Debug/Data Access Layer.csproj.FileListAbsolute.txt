@@ -1,0 +1,21 @@
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data_Access_Layer.Properties.Resources.resources
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.csproj.GenerateResource.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Data Access Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Data Access Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Data Access Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Domain Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\EntityFramework.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\EntityFramework.SqlServer.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\System.ComponentModel.Annotations.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Domain Layer.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\Domain Layer.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\EntityFramework.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\bin\Debug\EntityFramework.SqlServer.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\Data Access Layer\obj\Debug\Data Access Layer.pdb

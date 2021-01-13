@@ -1,0 +1,17 @@
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\obj\Debug\Testing.csprojAssemblyReference.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\UnitTestingProject.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\UnitTestingProject.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Assignment.exe
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Assignment.pdb
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Assignment.exe.config
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\obj\Debug\Testing.csproj.CopyComplete
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\obj\Debug\UnitTestingProject.dll
+E:\NU\5th Year\Advanced Programming\Assignment\kf7014_assignment\kf7014_assignment\UnitTestingProject\obj\Debug\UnitTestingProject.pdb
