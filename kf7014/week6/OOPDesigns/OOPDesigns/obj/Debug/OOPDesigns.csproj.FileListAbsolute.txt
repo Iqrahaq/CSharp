@@ -1,0 +1,9 @@
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\bin\Debug\OOPDesigns.exe.config
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\bin\Debug\OOPDesigns.exe
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\bin\Debug\OOPDesigns.pdb
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.csprojAssemblyReference.cache
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.Properties.Resources.resources
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.csproj.GenerateResource.cache
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.exe
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week6\OOPDesigns\OOPDesigns\obj\Debug\OOPDesigns.pdb

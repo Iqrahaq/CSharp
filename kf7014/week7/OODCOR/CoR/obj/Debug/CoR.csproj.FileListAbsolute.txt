@@ -1,0 +1,7 @@
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\obj\Debug\CoR.csproj.CoreCompileInputs.cache
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\bin\Debug\CoR.exe.config
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\bin\Debug\CoR.exe
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\bin\Debug\CoR.pdb
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\obj\Debug\CoR.exe
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\obj\Debug\CoR.pdb
+E:\NU\5th Year\Advanced Programming\Labs\kf7014\week7\OODCOR\CoR\obj\Debug\CoR.csprojAssemblyReference.cache

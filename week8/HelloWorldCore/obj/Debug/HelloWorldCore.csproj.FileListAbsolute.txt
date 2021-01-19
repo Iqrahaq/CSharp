@@ -1,7 +1,0 @@
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\bin\Debug\HelloWorldCore.exe.config
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\bin\Debug\HelloWorldCore.exe
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\bin\Debug\HelloWorldCore.pdb
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\obj\Debug\HelloWorldCore.csprojAssemblyReference.cache
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\obj\Debug\HelloWorldCore.csproj.CoreCompileInputs.cache
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\obj\Debug\HelloWorldCore.exe
-E:\NU\5th Year\Advanced Programming\Labs\kf7014\week8\HelloWorldCore\obj\Debug\HelloWorldCore.pdb
